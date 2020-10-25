@@ -1,1 +1,3 @@
 # bank-modelling
+
+The .csv files creditdefault_train & creditdefault_test contain information on different bank accounts with many different variables ('X1 - X23' columns) and whether these people are eligible for a mortgage ('Y' column). Using several different types of implementations, I aim to see which ones produce the best models at predicting whether an account will be accepted for a mortgage.
